@@ -7,10 +7,9 @@
 |[Java SymSpell](https://github.com/Lundez/JavaSymSpell)|Java|A port of SymSpell to Java & the JVM. SymSpell is a incredibly efficient spell-correction tool|
 |[Fuzzy Match](https://github.com/londogard/fuzzy-match-kt)|Kotlin, JVM|A copy-and-insert ready to use library for fuzzy searching, works incredibly well (try it [here}(https://londogard.com/fuzsearch))|
 
-#### Recent Blogs
-TO BE FILLED.
+---
 
-Make sure to take a look at **Londogard** & [Londogard.com](https://londogard.com/) where I keep most of my repositories & blogs.
+Make sure to take a look at [github.com/londogard](https://github.com/londogard),[Londogard.com](https://londogard.com/) & [blog.londogard.com](http://blog.londogard.com/).
 
 
 <!--
