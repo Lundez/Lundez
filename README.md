@@ -9,7 +9,7 @@
 
 ---
 
-Make sure to take a look at [github.com/londogard](https://github.com/londogard),[Londogard.com](https://londogard.com/) & [blog.londogard.com](http://blog.londogard.com/).
+Make sure to take a look at [github.com/londogard](https://github.com/londogard), [londogard.com](https://londogard.com/) & [blog.londogard.com](http://blog.londogard.com/).
 
 
 <!--
