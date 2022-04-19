@@ -2,6 +2,7 @@
 #### Interesting Repositories
 |What|Where|Summary|
 |---|---|---|
+|[londogard-nlp-toolkit](https://github.com/londogard/londogard-nlp-toolkit)|Kotlin, JVM|One of the, if not the, best Natural Language Processing Toolkit on the JVM written in Kotlin. Includes simple usage of Tokenizers (including HuggingFace), BPEmb, classifiers, stopwords, and much more!|
 |[Summarize](https://github.com/londogard/summarize-kt)|Kotlin, JVM|A summarize with _two_ different variants which were state-of-the-art for extractive summarisation a few years ago when I implemented them. One is built on top of TFIDF, the other combines TFIDF, embeddings and more! Runnable on the Raspberry Pi by using some clever optimisations for Word Embeddings (try it [here](https://londogard.com/smry))|
 [Text Gen](https://github.com/londogard/text-gen-kt)|Kotlin, JVM|Text Generation without Machine Learning. Built purely on statistics, clever optimisations and smart lookups allows this too run on a Raspberry Pi (try it [here](https://londogard.com/textgen))|
 |[Java SymSpell](https://github.com/Lundez/JavaSymSpell)|Java|A port of SymSpell to Java & the JVM. SymSpell is a incredibly efficient spell-correction tool|
