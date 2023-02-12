@@ -2,7 +2,7 @@
 
 Find my blog on [blog.londogard.com](https://blog.londogard.com/blog)!  
 
-And make sure to **not miss** [https://github.com/londogard/](github.com/londogard) where I do a lot of code today!
+And make sure to **not miss** [github.com/londogard](https://github.com/londogard/) where I do a lot of code today!
 
 **Recent entries:**
 1. Timeseries (predicting stocks/crypto) 3-part series ([#1](https://blog.londogard.com/blog/timeseries-pt-1), [#2](https://blog.londogard.com/blog/timeseries-pt-2), [#3](https://blog.londogard.com/blog/timeseries-pt-3))
